@@ -1,0 +1,14 @@
+layout_spectrum: 0.5137552584055811
+typography_spectrum: 0.9061517037916929
+color:
+  brandStrength: 0.903017743723467
+  lightness: 0.612206525169313
+  saturation: 0.17613775469362736
+  rhythmicContrast: 0.8320316828321666
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Global Charter Jet
